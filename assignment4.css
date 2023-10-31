@@ -1,0 +1,86 @@
+body {
+    background-color: azure;
+}
+
+.box .head {
+    display: flex;
+    color: darkolivegreen;
+    gap: 3rem;
+    
+}
+.home {
+    display: flex;
+    margin-left: 15rem;
+    margin-right: 2rem;
+    word-spacing: 40px;
+}
+.bu {
+    display: flex;
+    margin-left: 25rem;
+    margin-right: 0.70rem;
+    border-radius: 50%;
+    border: 50% solid;
+}
+button {
+    border-radius: 100%;
+    width: 7rem;
+    height:2rem ;
+    background-color: green;
+}
+.hope {
+    display: grid;
+    grid-template-columns: 0.75fr 1fr;
+    place-content:center ;
+    padding:7rem 0 ;
+}
+.OC {
+    margin-left: 5rem;
+    
+}
+.TRA {
+    color: burlywood;
+}
+.EXP {
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: darkolivegreen;
+}
+.FI {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 300px;
+    margin-top: 13px ;
+    margin-left: 25px ;
+}
+.SI {
+    position: relative;
+    width: 10px;
+    height: -30px;
+}
+
+input[type=button] {
+    font-family: Helvetica;
+    border-radius: 2rem;
+    border: none;
+    padding: 0.65rem 1rem;
+}
+.green {
+    background-color: green;
+    color: white;
+    font-family: Arial, Helvetica;
+    font-weight: bolder;
+    font-size: 10px;
+    padding: 18px;
+    text-align: center;
+}
+
+.LE {
+    font-size: 10px;
+    font-weight: 600;
+    font-family: Helvetica;
+    color: black;
+    background-color: white;
+    text-align: ;
+    font-weight: bolder;
+}
